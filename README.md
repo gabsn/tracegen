@@ -4,6 +4,7 @@ Simple generator of traces for **go**, **python** and **ruby**.
 
 *Very useful to check the datadog-agent is properly sending spans to the Datadog App.*
 
+![ScreenShot](https://raw.github.com/gabsn/tracegen/img/tracegen.png)
 
 # Usage
 
